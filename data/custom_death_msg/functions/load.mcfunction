@@ -1,0 +1,1 @@
+tellraw @a {"text":"Custom Death Message loaded","color":"white","italic":false}
