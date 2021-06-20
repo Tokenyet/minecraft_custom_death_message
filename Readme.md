@@ -5,8 +5,8 @@ Since there is no /kill @p custom_message, this is the workaround for kill playe
 No need to setup.
 
 # Functions
-- `monster_death` to display `<player> was slain by <player/mob>`.
-- `magic_death` to display `<player> was killed by magic`.
+- `monster_death` to display `<player> was slain by <custom_name>`.
+- `magic_death` to display `<player> was killed by <custom_name> using magic`.
 
 ## How to use
 1. Give the player a tag, **death_target**, (`tag=death_target`).
